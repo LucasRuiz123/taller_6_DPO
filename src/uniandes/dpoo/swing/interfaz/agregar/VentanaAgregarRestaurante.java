@@ -9,6 +9,7 @@ import uniandes.dpoo.swing.interfaz.principal.VentanaPrincipal;
 
 @SuppressWarnings("serial")
 public class VentanaAgregarRestaurante extends JFrame
+
 {
     /**
      * El panel donde se editan los detalles del restaurante
